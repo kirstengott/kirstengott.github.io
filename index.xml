@@ -34,5 +34,24 @@
   In picking a tool for creating a website to display a some biological data analysis for the ctenophore project, I looked for tools that would seemlesly fit into my current data analysis framework (primarily R coding in Rmarkdown using Rstudio as my text editor).</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Research       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Current I am broadly interested in evolutionary genomics, and for my PhD work I have joined Cameron Currie&amp;rsquo;s lab at the University of Wisconsin - Madison. In the Currie lab, we study how symbiosis shapes biodiversity. Currently, I am working with the fungus farming ant symbiosis to understand the selective forces that shape pathogen resistance in the specialized mycoparasite Escovopsis.
+Previous Before joining my PhD program at the UW-Madison I worked as a bioinformaticist in Alejandro Sánchez&amp;rsquo;s lab at The Stowers Institute for Medical Research.</description>
+    </item>
+    
   </channel>
 </rss>
