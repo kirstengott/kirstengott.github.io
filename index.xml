@@ -6,33 +6,9 @@
     <description>Recent content in Home on Kirsten Gotting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Moving to blogdown</title>
-      <link>/post/2018/02/17/moving-to-blogdown/</link>
-      <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018/02/17/moving-to-blogdown/</guid>
-      <description>Earlier this week I was dissapointed with how little I had posted to my blog. One post from over a year ago did not fit with my personal expectations, and a ongoing goal of mine has been to write more. I originally built my website using Jekyll, since it was easy to port to github and supports markdown formatted documents. Whenever I was actively working on the website it would be easy for me to float around in that ecosystem, but given my sporatic motivation, returning to that format has become a barrier.</description>
-    </item>
-    
-    <item>
-      <title>Making an Rmarkdown Website with Rstudio</title>
-      <link>/post/2017/01/21/tips-rmarkdown-website/</link>
-      <pubDate>Sat, 21 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2017/01/21/tips-rmarkdown-website/</guid>
-      <description>Summary Points:  Make all code chunks have different names
- Clean the cache before rebuilding the website
- Make the _site.yml simple, adding details to individual pages
- Use the &amp;lsquo;.gitignore&amp;rsquo; file and the &amp;lsquo;exclude:[]&amp;rsquo; option in the _site.yml
- Include a &amp;lsquo;footer.html&amp;rsquo;, &amp;lsquo;header.html&amp;rsquo;, and &amp;lsquo;styles.css&amp;rsquo; in the _site.yml file
-  In picking a tool for creating a website to display a some biological data analysis for the ctenophore project, I looked for tools that would seemlesly fit into my current data analysis framework (primarily R coding in Rmarkdown using Rstudio as my text editor).</description>
-    </item>
     
     <item>
       <title>Research</title>
