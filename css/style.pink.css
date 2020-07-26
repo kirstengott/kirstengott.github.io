@@ -129,6 +129,7 @@ button i.fa {
   color: #ef5285;
 }
 .text-uppercase {
+  text-transform: uppercase;
   letter-spacing: 0.1em;
 }
 .list-style-none {
@@ -331,6 +332,7 @@ SIDEBAR + RIGHT COLUMN
 }
 .sidebar-heading {
   font-size: 18px;
+  text-transform: uppercase;
   letter-spacing: 0.1em;
 }
 .sidebar-heading a {
@@ -432,6 +434,7 @@ SIDEBAR + RIGHT COLUMN
 .small-navbar-heading {
   float: right;
   font-size: 18px;
+  text-transform: uppercase;
   letter-spacing: 0.1em;
   margin-top: 10px;
 }
@@ -499,6 +502,7 @@ SERVICES / INTEGRATIONS
   text-align: center;
 }
 .services .services-heading {
+  text-transform: uppercase;
   letter-spacing: 0.1em;
   font-size: 18px;
   font-weight: 400;
@@ -698,6 +702,7 @@ ABOUT
 .progress-title {
   text-align: left;
   font-weight: 700;
+  text-transform: uppercase;
   letter-spacing: 0.1em;
   color: #999999;
   font-size: 12px;
@@ -837,6 +842,7 @@ a:active {
   font-size: 16px;
   line-height: 1.5;
   font-weight: 700;
+  text-transform: uppercase;
   letter-spacing: 0.1em;
 }
 .box-masonry h4 a {
@@ -1037,6 +1043,7 @@ a:active {
 }
 .box-image .name h3 {
   color: #fff;
+  text-transform: uppercase;
   font-size: 24px;
   letter-spacing: 0.08em;
 }
@@ -1120,6 +1127,7 @@ a:active {
 }
 .box-image-text .top .name h3 {
   color: #fff;
+  text-transform: uppercase;
   font-size: 24px;
   letter-spacing: 0.08em;
 }
@@ -1129,6 +1137,7 @@ a:active {
 }
 .box-image-text .top .name h4 {
   color: #fff;
+  text-transform: uppercase;
   font-size: 24px;
   letter-spacing: 0.08em;
 }
@@ -1155,6 +1164,7 @@ a:active {
 }
 .box-image-text .content h3,
 .box-image-text .content h4 {
+  text-transform: uppercase;
   line-height: 1.5;
   color: #555555;
   font-weight: 800;
@@ -1772,12 +1782,14 @@ fieldset[disabled] .btn-transparent.active {
 .label {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-weight: normal;
+  text-transform: uppercase;
 }
 /* forms.less */
 label {
   font-weight: normal;
   color: #555555;
   font-size: 14px;
+  text-transform: uppercase;
   letter-spacing: 0.1em;
 }
 .form-control {
@@ -1819,6 +1831,7 @@ label {
   margin: 24px 0;
   border-top: solid 1px #cdcdcd;
   padding-top: 24px;
+  text-transform: uppercase;
   letter-spacing: 0.1em;
   font-size: 14px;
   font-family: "Roboto", Helvetica, Arial, sans-serif;
