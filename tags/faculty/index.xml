@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>faculty on Kirsten Gotting</title>
+    <link>/tags/faculty/</link>
+    <description>Recent content in faculty on Kirsten Gotting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/faculty/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Email Template for Potential Committee Member</title>
+      <link>/drafts/email-template-for-potential-committee-member/</link>
+      <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/drafts/email-template-for-potential-committee-member/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
