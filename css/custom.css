@@ -16,3 +16,56 @@
   margin: 0 5px 0 -15px;
   color: #ef5285;
 }
+.text-gray {
+  color: #343434;
+}
+.text-gray-light {
+  color: #1b1b1b;
+}
+.text-gray-lighter {
+  color: #272727;
+}
+
+.sidebar-menu li a {
+  color: #1b1b1b;
+}
+
+.content-column-content p,
+.content-column-content li {
+  color: #1b1b1b;
+}
+
+.content-column-content p.lead {
+  color:  #343434;
+}
+
+p.social a {
+  margin: 0 10px 10px 0;
+  color: #fff;
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  line-height: 40px;
+  font-size: 15px;
+  text-align: center;
+  vertical-align: bottom;
+  border: solid 1px #1b1b1b;
+  color: #1b1b1b;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+  /*
+             &.facebook {background-color: #4460ae; border-color: #4460ae;}
+             &.gplus {background-color: #c21f25; border-color: #c21f25;}
+             &.twitter {background-color: #3cf; border-color: #3cf;}
+             &.instagram {background-color: #cd4378; border-color: #cd4378;}
+             &.email {background-color: #4a7f45; border-color: #4a7f45;}
+             &.link {background-color: #871AFF; border-color: #871AFF;}
+             */
+}
+
+.box-masonry .box-masonry-text p {
+  color: #1b1b1b;
+  font-size: 14px;
+}

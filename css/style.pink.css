@@ -348,7 +348,7 @@ SIDEBAR + RIGHT COLUMN
   text-decoration: none;
 }
 .sidebar-p {
-  color: #999999;
+  color: #343434;
   font-size: 14px;
 }
 .sidebar-menu {
@@ -360,7 +360,7 @@ SIDEBAR + RIGHT COLUMN
   margin-bottom: 5px;
 }
 .sidebar-menu li a {
-  color: #555555;
+  color: #1b1b1b;
 }
 .sidebar-menu li:before {
   font-family: 'FontAwesome';
@@ -588,8 +588,8 @@ p.social a {
   font-size: 15px;
   text-align: center;
   vertical-align: bottom;
-  border: solid 1px #999999;
-  color: #999999;
+  border: solid 1px #1b1b1b;
+  color: #1b1b1b;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
@@ -858,7 +858,7 @@ a:active {
   padding: 15px 20px 15px;
 }
 .box-masonry .box-masonry-text p {
-  color: #999999;
+  color: #1b1b1b;
   font-size: 14px;
 }
 .box-masonry .box-masonry-hover-text-header {
