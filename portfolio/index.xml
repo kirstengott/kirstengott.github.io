@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Kirsten Gotting</title>
+    <link>/portfolio/</link>
+    <description>Recent content in Portfolios on Kirsten Gotting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 20:22:08 +0530</lastBuildDate>
+    
+	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Email Template for Faculty Mentor</title>
+      <link>/portfolio/email-template1/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      
+      <guid>/portfolio/email-template1/</guid>
+      <description>Dear Dr. []:
+My name is [] and I am currently a [state what you currently doing] at []. I admire your research on [X] and I want to ask you about the possibility of working with you towards my [masters/PhD]. [Insert a few ideas or questions you have about their research on topics you might want to work on]. Are you accepting graduate students in the next year?
+Thank you for your consideration and I hope to hear from you soon,</description>
+    </item>
+    
+    <item>
+      <title>Applying to Graduate School in STEM</title>
+      <link>/portfolio/applying-for-graduate-school/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/applying-for-graduate-school/</guid>
+      <description>Here are my recommendations and a suggested timeline for applying for a PhD or masters program in STEM, more specifically the life sciences. I have served on the admissions committee for my PhD program, and have some general thoughts on how best to prepare your application from that experience. I hope for this to help demystify some of the process for anyone who needs it.
+Steps Request Letters of Recommendation Do this early and get a feel for if your recommender as advice for programs to consider.</description>
+    </item>
+    
+  </channel>
+</rss>
