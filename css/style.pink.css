@@ -94,14 +94,15 @@ section.background-secondary {
 .weight-700 {
   font-weight: 700 !important;
 }
+
 .text-gray {
-  color: #555555;
+  color: #343434;
 }
 .text-gray-light {
-  color: #999999;
+  color: #1b1b1b;
 }
 .text-gray-lighter {
-  color: #cdcdcd;
+  color: #272727;
 }
 @media (max-width: 991px) {
   .text-center-mobile {
@@ -404,11 +405,11 @@ SIDEBAR + RIGHT COLUMN
   }
 }
 .content-column-content p.lead {
-  color: #555555;
+  color:  #343434;
 }
 .content-column-content p,
 .content-column-content li {
-  color: #999999;
+  color: #1b1b1b;
 }
 .content-column-content ul li {
   list-style-type: none;

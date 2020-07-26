@@ -1,1 +1,18 @@
 /* your styles go here */
+
+.content-column-content p.lead {
+  color:  #343434;
+}
+.content-column-content p,
+.content-column-content li {
+  color: #1b1b1b;
+}
+.content-column-content ul li {
+  list-style-type: none;
+}
+.content-column-content ul li:before {
+  font-family: 'FontAwesome';
+  content: '\f105';
+  margin: 0 5px 0 -15px;
+  color: #ef5285;
+}
