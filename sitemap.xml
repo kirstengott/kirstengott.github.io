@@ -3,8 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/work2/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/work3/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/work4/</loc>
+    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/work5/</loc>
+    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/work6/</loc>
+    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/work7/</loc>
+    <lastmod>2016-11-05T19:57:40+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/work8/</loc>
+    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/work9/</loc>
+    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/portfolio/email-template1/</loc>
     <lastmod>2016-11-05T20:22:08+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/work11/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
   </url>
   
   <url>
@@ -88,6 +133,11 @@
   </url>
   
   <url>
+    <loc>/post/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/portfolio/</loc>
     <lastmod>2016-11-05T20:22:08+05:30</lastmod>
   </url>
@@ -109,11 +159,6 @@
   
   <url>
     <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
